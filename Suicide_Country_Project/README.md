@@ -20,3 +20,5 @@ A similar lack of relationship can be discovered with Social Spending and suicid
 Despite the widely accepted myth that higher gun ownership is linked to higher suicide rate, there is only a small, insignificant ~11% positive correlation between the two falsely correlated variables. This is because suicidal people tend to find other ways to end their life if guns are hard to get.
 
 ![gunsu](https://user-images.githubusercontent.com/77365987/123035081-951e8c00-d39f-11eb-9602-87a01f23c2e9.png)
+
+The results of comparing the lack of relationship between seemingly correlated variables and suicide show that suicide is a very complicated topic that can't be explained simply with restrictions and the economic laws of a country. Instead, factors leading to suicide are deeprooted within the culture of a country, and the country's attitudes towards mental health. Therefore, countries that want to decrease their suicide rate should look towards changing specific parts of their country's culture rather than tackling the problem through harsher gun/alcohol conditions and economic changes. 
