@@ -2,7 +2,7 @@ Suicide is a large problem in society, and many countries are actively looking f
 
 The region of a nation does have an affect on the suicide rates of the country, but not in the way most would imagine. Looking at the suicide rates per continent and the suicide rates in different parts of Europe, regions generally considered as developed don't show lower rates of suicide. 
 
-![region](https://user-images.githubusercontent.com/77365987/123033537-c21d6f80-d39c-11eb-8403-5d237370d74e.png)
+![region](https://user-images.githubusercontent.com/77365987/123034718-e4b08800-d39e-11eb-98a0-305bf4c252e7.png)
 ![subregion](https://user-images.githubusercontent.com/77365987/123033452-a1edb080-d39c-11eb-82d0-b0403a8f65c4.png)
 
 When comparing alchohol use to suicide rates, there is a slight positive correlation of ~40% observed, however not enough to prove the relationship is causation and not simply a coincidental correlation. 
