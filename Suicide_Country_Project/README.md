@@ -7,7 +7,7 @@ The region of a nation does have an affect on the suicide rates of the country, 
 
 When comparing alchohol use to suicide rates, there is a slight positive correlation of ~40% observed, however not enough to prove the relationship is causation and not simply a coincidental correlation. 
 
-![alcsu](https://user-images.githubusercontent.com/77365987/123033783-293b2400-d39d-11eb-84a2-bd99103c7d1a.png)
+![alcsu](https://user-images.githubusercontent.com/77365987/123034791-0e69af00-d39f-11eb-8817-ad742d1c6595.png)
 
 When comparing economic freedom to suicide rates, there is nearly no correlation observed between the two variables.
 
